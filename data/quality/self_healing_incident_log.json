@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-09-26T03:50:29.551364+00:00",
+  "source": "corrupted_feed",
+  "input_rows": 22,
+  "quality_gate_passed": false,
+  "freshness_sla_healthy": false,
+  "stale_ratio": 0.5,
+  "self_healing_triggered": true,
+  "resolution": "Automatically rolled back to immutable raw snapshot, re-cleaned, and re-indexed ChromaDB.",
+  "post_heal_gx_success": true,
+  "post_heal_freshness_healthy": true,
+  "healed_rows": 24
+}
